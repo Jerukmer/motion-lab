@@ -1,0 +1,4 @@
+/* Custom favicon - SVG inline */
+:root {
+  --favicon-color: #06b6d4;
+}
